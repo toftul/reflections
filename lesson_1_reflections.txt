@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Well, it was my first expirience to try diff command. I've found the bug
+    in one second! It seems very helpful since I usually have many versions 
+    of my computing programs. Waiting for new lessons!
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Access to the entire history allows you to see the whole progress of the 
+    project. You may notice which part is the most stable and which one is 
+    changing rapidly. Moreover, it  would be much esier to understand codes
+    from other divelopers.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Let's start with pluses:
+      + Only developer can decide for sure where is the logical starts and ends.
+      + Manual saving may prevent from having tons of versions.
+    As for minuses, I'd like to mention:
+      - It takes your efford. Yes, sometimes you have to use your own hands.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git was created for code version-control. Only very simple codes are single
+    filed. Multiple file projects are easier for understanding, each file is a 
+    logical part of the project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    At first you need to type 
+    $ git log 
+    in your repository directory. This command will show you all the commits 
+    were done. Then you should find which are you interested in and type
+    $ git diff commit_id previuos_commit_id
+    You will be given the changes!
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can always restore each state and find what extactly was wrong!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to start a new project related with neoral network and machine learning.
+    I hope that Git will help me to make a tidy workplace. 
