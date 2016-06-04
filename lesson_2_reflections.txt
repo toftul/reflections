@@ -42,6 +42,12 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	The result of merging is merging.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+	Depending on changes sometimes it's possible or not to decide 100% for
+	sure how to merge files. If no, you only the developer can make a right
+	decision.
