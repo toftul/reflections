@@ -15,7 +15,10 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-  Fill in your answer here
+  Clone is a copy of the whole repository with all commit history. Acctually,
+  fork is almost the same. The only difference is that GitHub cloning from 
+  one cloud repository to another cloud repository on GitHib servers. As for
+  branches, I suppose it's obvious. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
