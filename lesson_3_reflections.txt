@@ -23,7 +23,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-  Fill in your answer here
+  It helps you to be up-to-date with the last changes. Moreover, If you 
+  weren't online for a long time, it's hard to merge last commits.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
