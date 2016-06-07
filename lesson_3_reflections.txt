@@ -29,7 +29,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-  Fill in your answer here
+  It's going to be sh*ty experience! Well, at least cloud servecies can help.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
