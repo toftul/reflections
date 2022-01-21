@@ -35,3 +35,5 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
   When I want to try something experimental, that mey not work correctly.
+  
+  new line
